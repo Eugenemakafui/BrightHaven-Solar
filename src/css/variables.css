@@ -1,0 +1,37 @@
+/* CSS Variables (Design System) */
+:root {
+  /* Brand Colors */
+  --color-primary: #F5A623; /* Bright Sun Gold */
+  --color-primary-hover: #E09612;
+  --color-dark: #1A1C20; /* Charcoal Slate */
+  --color-dark-light: #2A2C31;
+  --color-green: #2E4735; /* Forest Canopy */
+  --color-sand: #F9F8F6; /* Off-White/Sand */
+  --color-white: #FFFFFF;
+  
+  /* Text Colors */
+  --text-main: #2C2E33;
+  --text-muted: #6B7280;
+  --text-light: #F9F8F6;
+
+  /* Typography */
+  --font-heading: 'Outfit', sans-serif;
+  --font-body: 'Inter', sans-serif;
+
+  /* Spacing */
+  --space-xs: 0.5rem;
+  --space-s: 1rem;
+  --space-m: 2rem;
+  --space-l: 4rem;
+  --space-xl: 6rem;
+
+  /* Layout */
+  --max-width: 1200px;
+  --radius-sm: 8px;
+  --radius-md: 12px;
+  --radius-lg: 20px;
+
+  /* Transitions */
+  --transition-fast: 0.2s ease;
+  --transition-normal: 0.3s ease;
+}
